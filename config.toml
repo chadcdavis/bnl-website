@@ -1,4 +1,5 @@
-baseurl = "http://www.booksandletters.com/new"
+#baseurl = "http://www.booksandletters.com/new"
+baseurl = "https://chadcdavis.github.io/bnl-website/"
 title = "Books n' Letters Studio"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
