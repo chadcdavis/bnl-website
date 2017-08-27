@@ -1,8 +1,13 @@
 +++
-date = "2017-06-26T20:52:55-05:00"
 title = "Contact"
-categories = []
-tags = []
-
 +++
 
+
+### Catherine Burkhard
+
+Call or email with questions regarding consultations for any book restoration projects, or to discuss ideas for 
+custom bindings and boxes or calligraphy projects.
+
+Phone Number: 214.363.7946
+
+Email: bookltrs@att.net

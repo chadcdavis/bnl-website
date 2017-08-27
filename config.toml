@@ -1,5 +1,5 @@
-#baseurl = "http://www.booksandletters.com/new"
-baseurl = "https://chadcdavis.github.io/bnl-website/"
+#baseurl = "http://www.booksandletters.com/demo/"
+baseurl = "http://www.booksandletters.com"
 title = "Books n' Letters Studio"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -27,13 +27,12 @@ paginate = 10
 
 [[menu.main]]
     name = "Repair & Restoration"
-    url  = "/repair-and-restoration/"
+    url  = "/repair/"
     weight = 2
 
 [[menu.main]]
-    name = "Special Projects" # FKA "Custom Binding"
-    # identifier = "faq"
-    url  = "/special-projects/"
+    name = "Custom Binding"
+    url  = "/custom/"
     weight = 3
 
 [[menu.main]]
@@ -42,8 +41,8 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    name = "Education" # FKA "Bookbinding Courses"
-    url  = "/education/"
+    name = "Bookbinding Courses"
+    url  = "/courses/"
     weight = 5
 
 [[menu.main]]
@@ -83,25 +82,12 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-
     copyright = "&copy; 2010 - 2017, Books 'n Letters Studio"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -109,7 +95,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p>For info please call: (555) 555-5555.</p>
+    text = """<p>For info please call: 214.363.7946</p>
       """
 
 # Enable and disable widgets for the right sidebar
