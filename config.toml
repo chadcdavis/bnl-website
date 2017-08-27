@@ -31,8 +31,8 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "Custom Binding"
-    url  = "/custom/"
+    name = "Special Projects"
+    url  = "/special-projects/"
     weight = 3
 
 [[menu.main]]
@@ -41,8 +41,8 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
-    name = "Bookbinding Courses"
-    url  = "/courses/"
+    name = "Education"
+    url  = "/education/"
     weight = 5
 
 [[menu.main]]

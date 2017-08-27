@@ -1,15 +1,11 @@
 +++
-title = "Custom Binding"
-date = "2017-06-26T20:51:39-05:00"
-categories = []
-tags = []
-
+title = "Special Projects"
 +++
 
 Books 'n Letters Studio is happy to look at any item you'd like to bring or send in. 
 We are experienced working with clients to design and create specialty bindings and encasements. 
 There is a large variety of papers and leathers to work with, as well as ideas to discuss. 
-Arrange an appointment for a consultation. 214.363.7946 or bookltrs@att.net.
+Arrange an appointment for a consultation by calling 214.363.7946.
 
 
 missing.image
