@@ -4,7 +4,7 @@ title = "Education"
 
 ### Catherine Burkhard, Instructor
 
-<img class="img-responsive col-md-4 pull-right" src="/images/education-01-catharine-gluing.jpg">
+<img class="img-responsive col-md-4 pull-right" src="../images/education-01-catharine-gluing.jpg">
 
 Catherine, a Dallas, Texas resident for most of her life, has been involved in various arts and crafts groups, 
 bookbinding and calligraphy study groups, and exhibitions. She has studied with many noted calligraphers and 

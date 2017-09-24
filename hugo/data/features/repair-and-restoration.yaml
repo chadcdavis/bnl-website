@@ -2,5 +2,5 @@ weight: 1
 name: "Repair & Restoration"
 icon: "fa fa-wrench"
 description: "Repair and restoration can be performed on books, Bibles, journals, sheet music, and other cherished items -- ensuring they will last for generations to come."
-link: "/repair"
+link: "repair"
 image: "feature-repair.jpg"

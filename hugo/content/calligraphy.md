@@ -17,7 +17,7 @@ She continues to take opportunities to further her education and skills in the f
 <div class="row">
     <div class="col-md-3">
         <figure class="figure">
-            <img class="img-responsive" src="/images/calligraphy-01-gothicized-italic-poem-framed.jpg">
+            <img class="img-responsive" src="../images/calligraphy-01-gothicized-italic-poem-framed.jpg">
             <figcaption>
                 <h4>Gothicicized Italic Lettering</h4>
                 <p>This hymn verse, hand lettered on Arches 140# HP paper in black ink, uses Gothicized Italic lettering.</p>
@@ -26,7 +26,7 @@ She continues to take opportunities to further her education and skills in the f
     </div>
     <div class="col-md-3">
        <figure class="figure">
-            <img class="img-responsive" src="/images/calligraphy-02-illuminated-e.jpg">
+            <img class="img-responsive" src="../images/calligraphy-02-illuminated-e.jpg">
             <figcaption>
                 <h4>Illuminated "E"</h4>
                 <p>This illuminated "E" was outlined using waterproof black ink and the inner areas painted with metallic gold 
@@ -37,7 +37,7 @@ She continues to take opportunities to further her education and skills in the f
      </div>
     <div class="col-md-3">
         <figure class="figure">
-            <img class="img-responsive" src="/images/calligraphy-03-accordion.jpg">
+            <img class="img-responsive" src="../images/calligraphy-03-accordion.jpg">
             <figcaption>
                 <h4>"Texas, Our Texas" Letterform</h4>
                 <p>A letterform based on an alphabet designed by Frederich Neugebauer became the alphabet used in this 
@@ -48,7 +48,7 @@ She continues to take opportunities to further her education and skills in the f
     </div>
     <div class="col-md-3">
         <figure class="figure">
-            <img class="img-responsive" src="/images/calligraphy-04-first-flight.jpg">
+            <img class="img-responsive" src="../images/calligraphy-04-first-flight.jpg">
             <figcaption>
                 <h4>"First Flight" Framed Work</h4>
                 <p>This framed work in calligraphy with its four open windows was hand lettered on Guterburg Laid paper 

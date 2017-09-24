@@ -1,5 +1,5 @@
-#baseurl = "http://www.booksandletters.com/demo/"
-baseurl = "http://www.booksandletters.com"
+baseurl = "http://www.booksandletters.com/preview/"
+#baseurl = "http://www.booksandletters.com"
 title = "Books n' Letters Studio"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
@@ -60,9 +60,6 @@ paginate = 10
     author = "DevCows"
     defaultKeywords = ["Book Binding", "Calligraphy", "Book Repair"]
     defaultDescription = "Book binding, restoration, calligraphy and more by Catherine Burkhard in Dallas, TX."
-
-    # Google Maps API key (if not set will default to not passing a key.)
-    googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "violet"

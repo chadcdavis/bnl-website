@@ -10,8 +10,8 @@
                 {{ end }}
                 <div class="col-md-4">
                     <div class="box-simple">
-                        <a href="{{ $element.link }}">
-                        <img src="/images/{{ $element.image }}">
+                        <a href="{{ $.Site.BaseURL }}{{ $element.link }}">
+                        <img src="{{ $.Site.BaseURL }}images/{{ $element.image }}">
                         <h3>{{ $element.name }}</h3>
                         <p>{{ $element.description | markdownify }}</p>
                         </a>

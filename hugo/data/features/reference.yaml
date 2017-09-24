@@ -2,5 +2,5 @@ weight: 5
 name: "Reference"
 icon: "fa fa-lightbulb-o"
 description: "Helpful information and educational opportunities for beginning and advanced bookbinders, calligraphers and book artists."
-link: "/reference"
+link: "reference"
 image: "feature-reference.jpg"
