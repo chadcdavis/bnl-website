@@ -2,3 +2,5 @@ weight: 2
 name: "Special Projects"
 icon: "fa fa-diamond"
 description: "Custom-made projects and design bindings done. Encasements and boxes can be designed specifically to display and protect valued collectibles, scrapbooks, portfolios, first editions or any sentimental book or object one wishes to preserve."
+link: "/special-projects"
+image: "feature-specialprojects.jpg"

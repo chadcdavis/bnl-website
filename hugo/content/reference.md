@@ -38,56 +38,53 @@ being qualified, ask to see samples of their work and/or obtain references.
 
 #### Guild of Book Workers
 
-The Guild of Book Workers is a national organization, with 10 Chapters in areas such as New England, New York, the 
-Delaware Valley, Washington D.C., the Midwest, California, the Rocky Mountains, Texas, the Northwest and the Southeast 
-representing the hand book and paper crafts. Membership is open to all interested persons. For general information go to 
-the Web site, and for membership information, write to the Membership Chairman, Guild of Book Workers, 521 Fifth Avenue, 
-New York, NY 10175, or also use the site's link to "Membership".
+http://guildofbookworkers.org
+ 
+The Guild of Book Workers is a national organization, with 10 regional chapters, which includes Texas (the Lone Star Chapter), representing the hand book and paper crafts. Membership is open to all interested persons. For membership information go to the website or write to the membership Chairman, Guild of Book Workers, 521 Fifth Avenue, New York, NY 10175.
 
-http://guildofbookworkers.org 
+The Guild has publications for its members, and also offers an annual seminar for members, exhibitions, a lending library, and keeps members informed as to educational opportunities available in all the 10 chapters.
 
-The Lone Star Chapter of the Guild of Book Workers generally encompasses the state of Texas, but invites all Guild 
-members near and far from Texas to be a part of this Chapter. 
+
+#### The Lone Star Chapter
 
 https://gbwlonestarchapter.wordpress.com 
 
-#### Kaligrafos, The Dallas Calligraphy Society
-
-This calligraphy organization was organized in February of 1980. Meetings are held on the 2nd Saturdays of 9 months of 
-the year and include educational programs. Workshops and special seminars are offered frequently.
-
-www.kaligrafos.com
+This is Texas' regional Chapter of the Guild of Book Workers. It generally encompasses the state of Texas, but invites all Guild members near and far from Texas to be a part of it. The Chapter offers workshops and other educational events to further members' education.
 
 
 #### The Miniature Books Society (MBS)
 
+http://www.mbs.org
+
 This Society is a non-profit organization founded in 1983 in the United States which now enjoys worldwide membership. 
-It sustains an interest in all phases of miniature books and is a clearing house for information through its journal 
-and the MBS Newsletter. The MBS is interested in promoting all aspects of the book arts with special affection for the 
-small format.
-
-www.mbs.org
-
+It sustains an interest in all phases of miniature books and is a clearing house for information through its journal, the "MBS Newsletter", and an annual Conclave. The MBS is interested in promoting all aspects of the book arts with special affection for the small format.
 
 #### The Society of Bookbinders, United Kingdom
 
-The Society of Bookbinders is an educational charity dedicated to traditional and contemporary bookbinding and to the 
-preservation and conservation of the printed and written word. The Society is organized into 8 regions in the UK plus 
-an overseas group.
+http://www.societyofbookbinders.com
 
-www.societyofbookbinders.com
+The Society of Bookbinders is an educational charity dedicated to traditional and contemporary bookbinding and to the preservation and conservations of the printed and written word. The Society is organized into 8 regions in the UK plus an overseas group which includes the U.S.
+
+
+#### Kaligrafos
+
+http://www.kaligrafos.com
+
+This calligraphy organization, based in Dallas, TX, was organized in February of 1980. Meetings are held on the 2nd Saturdays of 9 months of the year and includes educational programs. Workshops and special seminars are offered frequently. Kaligrafos also joins with other Texas, Oklahoma, and Louisiana groups in offering workshops and various educational opportunities.
+
+
 
 ### Suppliers
 
-For questions about any of the listings here, feel free to contact Catherine. Books 'n Letters Studio places group 
-orders with many vendors and passes the savings on shipping and quantity discounts to students.
+Books 'n Letters Studio recommends the following suppliers for bookbinding or calligraphy supplies:
 
-* Harmatan & Oakridge Leathers 2008 Ltd., Higham Ferrers, Northamptonshire, UK www.harmatan.co.uk
-* The Japanese Paper Place, Toronto, Canada www.japanesepaperplace.com
-* Talas, Brooklyn, NY www.talasonline.com
-* J. Hewit & Sons Ltd., Livingston, West Lothian, Scotland www.hewit.com
-* P&S Engraving, Portslade, East Sussex, UK www.pandsengraving.co.uk
-* BookMakers, College Park, MD www.bookmakerscatalog.com
-* Colophon Book Arts Supply, Lacey, WA www.colophonbookarts.com
-* Paper and Ink Arts, Nashville, TN www.paperinkarts.com
-* John Neal, Bookseller, Greensboro, NC www.johnnealbooks.com
+* Harmatan & Oakridge Leathers 2008 Ltd., Higham Ferrers, Northamptonshire, UK http://www.harmatan.co.uk
+* The Japanese Paper Place, Toronto, Canada, http://www.japanesepaperplace.com
+* Washi Arts, the U.S. supplier for The Japanese Paper Place, http://www.washiarts.com
+* Talas, Brooklyn, NY http://www.talasonline.com
+* J. Hewit & Sons Ltd., Livingston, West Lothian, Scotland http://www.hewit.com
+* P&S Engraving, Portslade, East Sussex, UK http://www.pandsengraving.co.uk
+* BookMakers, College Park, MD http://www.bookmakerscatalog.com
+* Colophon Book Arts Supply, Lacey, WA http://www.colophonbookarts.com
+* Paper and Ink Arts, Nashville, TN http://www.paperinkarts.com
+* John Neal, Bookseller, Greensboro, NC http://www.johnnealbooks.com

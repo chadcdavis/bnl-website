@@ -2,3 +2,5 @@ weight: 4
 name: "Education"
 icon: "fa fa-graduation-cap"
 description: "Bookbinding consultation in Books n' Letters Studio by appointment only."
+image: "feature-education.jpg"
+link: "/education"

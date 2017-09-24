@@ -19,7 +19,8 @@ She continues to take opportunities to further her education and skills in the f
         <figure class="figure">
             <img class="img-responsive" src="/images/calligraphy-01-gothicized-italic-poem-framed.jpg">
             <figcaption>
-                This hymn verse, hand lettered on Arches 140# HP paper in black ink, uses Gothicized Italic lettering.
+                <h4>Gothicicized Italic Lettering</h4>
+                <p>This hymn verse, hand lettered on Arches 140# HP paper in black ink, uses Gothicized Italic lettering.</p>
             </figcaption>
         </figure>
     </div>
@@ -27,9 +28,10 @@ She continues to take opportunities to further her education and skills in the f
        <figure class="figure">
             <img class="img-responsive" src="/images/calligraphy-02-illuminated-e.jpg">
             <figcaption>
-                This illuminated "E" was outlined using waterproof black ink and the inner areas painted with metallic gold 
+                <h4>Illuminated "E"</h4>
+                <p>This illuminated "E" was outlined using waterproof black ink and the inner areas painted with metallic gold 
                 Winsor-Newton gouache. The vines were also done with the black ink, and gouache served as the medium for the 
-                flowers and leaves.
+                flowers and leaves.</p>
             </figcaption>
         </figure>
      </div>
@@ -37,9 +39,10 @@ She continues to take opportunities to further her education and skills in the f
         <figure class="figure">
             <img class="img-responsive" src="/images/calligraphy-03-accordion.jpg">
             <figcaption>
-                A letterform based on an alphabet designed by Frederich Neugebauer became the alphabet used in this 
+                <h4>"Texas, Our Texas" Letterform</h4>
+                <p>A letterform based on an alphabet designed by Frederich Neugebauer became the alphabet used in this 
                 accordian-folded book, done in gouache. The verses of "Texas, Our Texas" were enhanced with collage and Texas 
-                commemorative postage stamps. The covers were done with sapphire goat leather with braided red-white-blue ties.
+                commemorative postage stamps. The covers were done with sapphire goat leather with braided red-white-blue ties.</p>
             </figcaption>
         </figure>
     </div>
@@ -47,10 +50,11 @@ She continues to take opportunities to further her education and skills in the f
         <figure class="figure">
             <img class="img-responsive" src="/images/calligraphy-04-first-flight.jpg">
             <figcaption>
-                This framed work in calligraphy with its four open windows was hand lettered on Guterburg Laid paper 
+                <h4>"First Flight" Framed Work</h4>
+                <p>This framed work in calligraphy with its four open windows was hand lettered on Guterburg Laid paper 
                 using gouache in the colors of the commemorative postage stamp. The stamp was issued in 2003 and 
                 commemorated the Wright Brothers' First Flight of the Kitty Hawk. The sheet of stamps included the historical 
-                data on its back side and is the text for the lettering to its right.
+                data on its back side and is the text for the lettering to its right.</p>
             </figcaption>
         </figure>
     </div>
