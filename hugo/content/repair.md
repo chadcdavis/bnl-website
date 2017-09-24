@@ -10,18 +10,93 @@ Usually there is more than one option for repairing a book. Various procedures w
 can be decided which procedures fit the needs of one's project and budget.  Estimates are available for repairs 
 and restoration projects. Please call to schedule a consultation: 214.363.7946.
 
-missing.image
-this.is.a.caption This Bible was delivered in separate pieces - the spine piece was detached, pages were loose, and 
-leather damaged on covers.
+<br />
 
-missing.image
-this.is.a.caption For this Bible, new leather cover was created, gold-stamped and reattached to the text block that was 
-repaired with all pages secured.
+<div class="row">
+    <div class="col-md-6">
+        <figure class="figure">
+            <img class="img-responsive" src="/images/repair-01a-father-goose-before.jpg">
+            <figcaption>
+                <h4>Father Goose Before</h4>
+                <p>Frank Baum's "Father Goose" book was totally apart and not in good shape when received.</p>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="col-md-6">
+       <figure class="figure">
+            <img class="img-responsive" src="/images/repair-01b-father-goose-after.jpg">
+            <figcaption>
+                <h4>Father Goose After</h4>
+                <p>Signatures were dusted, guarded, mended (many with page fills), and resewn. A new bookcloth spine pieces pulled the original covers together before casing.</p>
+            </figcaption>
+        </figure>
+     </div>
+</div>
 
-missing.image
-this.is.a.caption This 150-year old Family Bible was brought in for restoration. The leather spine was reinforced and 
-secured to the covers. The text block was mended as needed, and the covers were cleaned and touched up to appear close to their original appearance.
+<hr>
+
+
+<div class="row">
+    <div class="col-md-6">
+        <figure class="figure">
+            <img class="img-responsive" src="/images/repair-02a-sappington-bible-before.jpg">
+            <figcaption>
+                <h4>Sappington Family Bible Before</h4>
+                <p>This family's large Bible, extremely worn and torn, had obvious mends with cellophane tape, and had been previously rebound.</p>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="col-md-6">
+       <figure class="figure">
+            <img class="img-responsive" src="/images/repair-02b-sappington-bible-after.jpg">
+            <figcaption>
+                <h4>Sappington Family Bible After</h4>
+                <p>Signatures were carefully disbound, mended or encapsulated, guarded and resewn on cords. The front and back cover boards were cleaned and treated, corners mended, then put together with a new spine. The original spine piece, applied to the new spine, was also cleaned and treated.</p>
+            </figcaption>
+        </figure>
+     </div>
+</div>
+
  
-missing.image
-missing.image
-this.is.a.caption This small, restored leather book rests inside a suede-lined clamshell, made for the client.
+<hr>
+
+<div class="row">
+    <div class="col-md-5">
+        <figure class="figure">
+            <img class="img-responsive" src="/images/repair-03-mini-photo-book-restored.jpg">
+            <figcaption>
+                <h4>Mini Photo Book Restored</h4>
+                <p>This small antique photo album was cleaned and retored. A clamshell was made to fit the album.</p>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-md-5">
+        <figure class="figure">
+            <img class="img-responsive" src="/images/repair-04-set-of-books.jpg">
+            <figcaption>
+                <h4>Set of Books</h4>
+                <p>This 20-volume set of books from a local library were thoroughly restored. New quarter-bound leather covers with book cloth were constructed and titling done on each.</p>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-md-5">
+        <figure class="figure">
+            <img class="img-responsive" src="/images/repair-05-white-bible-restored.jpg">
+            <figcaption>
+                <h4>Bible Restoration</h4>
+                <p>A small Bible, originally bound in white faux leather, was fully restored with a cover of white goat leather. Matching clamshell box made to house the Bible and protect it.</p>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+
