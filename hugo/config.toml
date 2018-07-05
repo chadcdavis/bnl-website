@@ -1,5 +1,4 @@
-baseurl = "http://www.booksandletters.com/preview/"
-#baseurl = "http://www.booksandletters.com"
+baseurl = "http://www.booksandletters.com/"
 title = "Books n' Letters Studio"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
