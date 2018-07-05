@@ -52,7 +52,7 @@ https://gbwlonestarchapter.wordpress.com
 This is Texas' regional Chapter of the Guild of Book Workers. It generally encompasses the state of Texas, but invites all Guild members near and far from Texas to be a part of it. The Chapter offers workshops and other educational events to further members' education.
 
 
-#### The Miniature Books Society (MBS)
+#### The Miniature Book Society (MBS)
 
 http://www.mbs.org
 
@@ -85,6 +85,5 @@ Books 'n Letters Studio recommends the following suppliers for bookbinding or ca
 * J. Hewit & Sons Ltd., Livingston, West Lothian, Scotland http://www.hewit.com
 * P&S Engraving, Portslade, East Sussex, UK http://www.pandsengraving.co.uk
 * BookMakers, College Park, MD http://www.bookmakerscatalog.com
-* Colophon Book Arts Supply, Lacey, WA http://www.colophonbookarts.com
 * Paper and Ink Arts, Nashville, TN http://www.paperinkarts.com
 * John Neal, Bookseller, Greensboro, NC http://www.johnnealbooks.com
