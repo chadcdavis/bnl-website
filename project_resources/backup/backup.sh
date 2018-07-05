@@ -2,6 +2,8 @@
 
 BACKUPTAG=$(date "+%Y%m%d%H%m%S")
 
-touch "sitebackup/${BACKUPTAG}-backedup.flag"
+DESTDIR="sitebackups/${BACKUPTAG}"
 
-lftp -e "mirror -v / sitebackup/; bye" -uchadcdavis0,dei/s2ooB1ba 005b90b.netsolhost.com
+#mkdir "${DESTDIR}"
+
+lftp -e "mirror -v / ${DESTDIR}; bye" -uchadcdavis0,dei/s2ooB1ba 005b90b.netsolhost.com
