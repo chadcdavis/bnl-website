@@ -1,0 +1,26 @@
+
+a:visited  { color: navy; font-style: normal; font-variant: normal; font-weight: bold; font-family: verdana, arial, helvetica, sans-serif; text-decoration: underline }
+
+a:link   { color: #navy; font-style: normal; font-variant: normal; font-weight: bold; font-family: verdana, arial, helvetica, sans-serif; text-decoration: underline }
+
+
+body { font-style: normal; font-variant: normal; font-weight: normal; font-family: verdana, arial, helvetica, sans-serif; }
+
+<--
+h2  { font-style: normal; font-variant: normal; font-weight: normal; line-height: 120%; font-family: verdana, arial, helvetica, sans-serif; color: #606289; }
+
+p { font-family: verdana, arial, helvetica, sans-serif }
+
+td { font-style: normal; font-variant: normal; font-weight: normal; line-height: 120%; font-family: verdana, arial, helvetica, sans-serif }
+-->
+
+.text_bold  { font: bold 11pt verdana, arial, helvetica, sans-serif; background-repeat: repeat }
+.text_reg  { font: 11pt verdana, arial, helvetica, sans-serif; background-repeat: repeat }
+.text_reg_ital  { font: 11pt verdana, arial, helvetica, sans-serif; font-style: italic; background-repeat: repeat }
+
+.text_small  { font: 10pt verdana, arial, helvetica, sans-serif; italic; background-repeat: repeat }
+.text_small_bold  { font: bold 10pt verdana, arial, helvetica, sans-serif; italic; background-repeat: repeat }
+
+.text_small_ital  { font: 10pt verdana, arial, helvetica, sans-serif; font-style: italic; font-weight: bold; background-repeat: repeat; color: #304392}
+
+.text_tiny  { font: 8pt verdana, arial, helvetica, sans-serif; italic; background-repeat: repeat }
